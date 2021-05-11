@@ -29,7 +29,7 @@
     "core-js": "^3.4.4",
     "debug": "^4.0.1",
     "detect-browser": "^3.0.1",
-    "eccrypto": "^1.1.3",
+    "eccrypto": "^1.1.5",
     "ethereumjs-common": "^1.5.0",
     "ethereumjs-tx": "^2.1.2",
     "ethjs-unit": "^0.1.6",
